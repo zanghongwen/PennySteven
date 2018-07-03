@@ -1,3 +1,3 @@
-steven input
-Penny input
-test
+After download back up existing eclipse/plugins/org.eclipse.jdt.launching_3.*.jar
+Copy and paste classes in the patch to org.eclipse.jdt.launching JAR (replace existing files).
+Restart Eclipse.
